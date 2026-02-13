@@ -57,7 +57,7 @@ A disciplina aborda os seguintes tópicos:
 ## 📞 Contato
 Caso tenha dúvidas ou queira trocar conhecimento, entre em contato!
 📧 **Email:** marcosfsouza.dev@gmail.com
-🐙 **GitHub:** [marquiitus](https://github.com/MarcosF-Souza)
+🐙 **GitHub:** [MarcosF-Souza](https://github.com/MarcosF-Souza)
 
 ## 📚 Referências
 - **Livro:** Sistemas de Banco de Dados – Abraham Silberschatz

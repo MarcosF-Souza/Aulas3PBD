@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Aulas3PBD
-=======
 # Projeto de Banco de Dados (3PBD)
 
 Bem-vindo ao meu repositório da disciplina **Projeto de Banco de Dados (3PBD)** do curso superior de **Análise e Desenvolvimento de Sistemas** da **FAETERJ-RIO**! Aqui você encontrará materiais fundamentais para compreender os conceitos essenciais de **bancos de dados relacionais** e sua implementação com **SQL**.
@@ -49,16 +46,6 @@ A disciplina aborda os seguintes tópicos:
 - **Ferramentas:** MySQL Workbench, DBeaver, PgAdmin
 - **Git & GitHub** – Controle de versão e colaboração
 
-## 📂 Estrutura do Repositório
-```
-📁 3PBD
-│── 📂 modelagem     # Modelos conceituais e lógicos
-│── 📂 sql-scripts   # Scripts SQL para criação e manipulação de dados
-│── 📂 normalizacao  # Exercícios sobre normalização de tabelas
-│── 📂 projetos      # Projetos práticos desenvolvidos na disciplina
-│── 📄 README.md     # Documentação do projeto
-```
-
 ## 🚀 Como Executar os Exemplos
 1. Clone este repositório:
    ```bash
@@ -69,12 +56,11 @@ A disciplina aborda os seguintes tópicos:
 
 ## 📞 Contato
 Caso tenha dúvidas ou queira trocar conhecimento, entre em contato!
-📧 **Email:** marcos.24104708360017@faeterj-rio.edu.br  
-🐙 **GitHub:** [marquiitus](https://github.com/marquiitus)
+📧 **Email:** marcosfsouza.dev@gmail.com
+🐙 **GitHub:** [marquiitus](https://github.com/MarcosF-Souza)
 
 ## 📚 Referências
 - **Livro:** Sistemas de Banco de Dados – Abraham Silberschatz
 - **Documentação SQL:** [w3schools.com/sql](https://www.w3schools.com/sql/)
 
 🎯 Bons estudos e sucesso no aprendizado de Banco de Dados! 🚀
->>>>>>> 783fcad (adicionando o arquivo README.md)
